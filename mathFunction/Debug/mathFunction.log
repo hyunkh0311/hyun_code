@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\hyunkh\source\repos\projectbyhyun\mathfunction\main.cpp(12): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunkh\source\repos\projectbyhyun\mathfunction\main.cpp(38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunkh\source\repos\projectbyhyun\mathfunction\main.cpp(39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunkh\source\repos\projectbyhyun\mathfunction\main.cpp(40): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunkh\source\repos\projectbyhyun\mathfunction\main.cpp(43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunkh\source\repos\projectbyhyun\mathfunction\main.cpp(44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunkh\source\repos\projectbyhyun\mathfunction\main.cpp(45): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mathFunction.vcxproj -> C:\Users\HyunKH\source\repos\ProjectByHyun\mathFunction\Debug\mathFunction.exe
